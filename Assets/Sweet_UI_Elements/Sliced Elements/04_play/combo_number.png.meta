@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: e02a6cb4664141d40aa728d0ba6c137b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8847710130603091399
+    second: combo_number_0
+  - first:
+      213: -4129471202011706030
+    second: combo_number_1
+  - first:
+      213: 2726223636872840199
+    second: combo_number_2
+  - first:
+      213: 2825786999133681027
+    second: combo_number_3
+  - first:
+      213: -150238985170965049
+    second: combo_number_4
+  - first:
+      213: -6889909204786617852
+    second: combo_number_5
+  - first:
+      213: 143995932598717319
+    second: combo_number_6
+  - first:
+      213: -7371871112303084389
+    second: combo_number_7
+  - first:
+      213: 9018365740414556066
+    second: combo_number_8
+  - first:
+      213: -4836652251197671085
+    second: combo_number_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -93,11 +123,221 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: combo_number_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6e8e6a95cc3b4791bb7041ae9ba6e
+      internalID: -8847710130603091399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 29
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95d940aaa340342bf8dfd6fb40b803
+      internalID: -4129471202011706030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 44
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6eb8b5134a8c745bec1a3e960dbd9b
+      internalID: 2726223636872840199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 45
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b578e071210d68745b687923e3e84676
+      internalID: 2825786999133681027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 46
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a31302df17413a49885b36a4a32fedd
+      internalID: -150238985170965049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 46
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ed24da53fbbd40b077c954ee43818
+      internalID: -6889909204786617852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 46
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73ab7144cc7554095fc1230c1972d0
+      internalID: 143995932598717319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 42
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1896966d07f97849bb4c58919d56405
+      internalID: -7371871112303084389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 49
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133273af6c7ccfd41b4ea8f274f35fa0
+      internalID: 9018365740414556066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_number_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 44
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5eea9df69cc0448864b6e5c881748
+      internalID: -4836652251197671085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 24f6b7aa8824ac643a0fcaf7a34dbea7
     internalID: 0
     vertices: []
     indices: 
