@@ -19,10 +19,10 @@ public class CustPropertyDrawer : PropertyDrawer
         {
             SerializedProperty row = data.GetArrayElementAtIndex(j).FindPropertyRelative("row");
             newposition.height = 18f;
-            if (row.arraySize != 9)
-                row.arraySize = 9;
-            newposition.width = position.width / 9;
-            for (int i = 0; i < 9; i++)
+            if (row.arraySize != 8)
+                row.arraySize = 8;
+            newposition.width = position.width / 8;
+            for (int i = 0; i < 8; i++)
             {
                 EditorGUI.PropertyField(newposition, row.GetArrayElementAtIndex(i), GUIContent.none);
                 newposition.x += newposition.width;

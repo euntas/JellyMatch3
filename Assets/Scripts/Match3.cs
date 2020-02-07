@@ -15,7 +15,7 @@ public class Match3 : MonoBehaviour
     public GameObject nodePiece;
     public GameObject killedPiece;
 
-    int width = 9;
+    int width = 8;
     int height = 13;
     int[] fills;
     Node[,] board;
